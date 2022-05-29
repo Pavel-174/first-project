@@ -5,3 +5,4 @@
 *html
 *css
 <p>На момнет выгрузки работы, на git.hub выгруженна более полнаяверсия работы в репозитории how-to-learn.
+<p> Ссылка на вторую проектную работу: https://github.com/Pavel-174/how-to-learn/blob/main/README.md
